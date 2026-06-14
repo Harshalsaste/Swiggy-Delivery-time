@@ -1,4 +1,3 @@
-Based on the repository structure found in the sources, here is a professional and comprehensive **README.md** file you can use for your GitHub repository.
 
 ***
 
